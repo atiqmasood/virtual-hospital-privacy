@@ -1,4 +1,3 @@
-# Virtual Hospital – Privacy Policy, Terms of Service & Cookie Policy
 
 **Effective Date:** [08/05/2025]
 
