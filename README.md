@@ -56,7 +56,7 @@ We may update this Privacy Policy. We'll notify users of significant changes thr
 ### 8. Contact Us
 
 If you have any questions:
-- **Email:** [your-email@example.com]
+- **Email:** [info@pangeacloudsolutions.com]
 - **Website:** [your-domain.com]
 
 ---
@@ -109,7 +109,7 @@ These Terms are governed by the laws of [Your Country/State].
 ### 10. Contact
 
 Questions? Contact us at:
-- **Email:** [your-email@example.com]
+- **Email:** [info@pangeacloudsolutions.com]
 
 ---
 
@@ -134,7 +134,7 @@ You can manage cookie settings through your device’s settings. Disabling cooki
 ### Contact
 
 For cookie-related questions:
-- **Email:** [your-email@example.com]
+- **Email:** [info@pangeacloudsolutions.com]
 
 ---
 
